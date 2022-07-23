@@ -1,10 +1,14 @@
-﻿using System;
+﻿using Entities.concrete;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Business.Abstract
 {
-    internal interface ISupplierService
+    public interface ISupplierService
     {
+        void GiveData(Person person);
     }
+
+    
 }
