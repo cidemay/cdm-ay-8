@@ -1,4 +1,5 @@
-﻿using Entities.concrete;
+﻿using Business.Concrete;
+using Entities.concrete;
 
 namespace WorkSpace
 {
@@ -11,7 +12,31 @@ namespace WorkSpace
 
             //Variable();
             People people = new People();
-           
+
+            Console.WriteLine("Lütfen Ad bilgisini yazınız");
+            string FirstName = Console.ReadLine();
+            Console.WriteLine("Lütfen Soyad bilgisini yazınız");
+            string LastName = Console.ReadLine();
+            Console.WriteLine("Lütfen TCKimlik bilgisini yazınız");
+            long NationalIdentity =Convert.ToInt64( Console.ReadLine());
+            Console.WriteLine("Lütfen doğum yılı bilgisini giriniz");
+            int DateOfBirthYear = Convert.ToInt32(Console.ReadLine());
+
+            Person person1 = new Person();
+            person1.FirstName = FirstName;
+            person1.LastName= LastName;
+            person1.NationalIdentity = NationalIdentity;
+            person1.DateOfBirthYear= DateOfBirthYear;
+
+            FirmaManager firmaManager = new FirmaManager(new PersonManager());
+            firmaManager.GiveData(person1);
+
+
+
+            
+
+
+
            
             Console.ReadLine();
         }

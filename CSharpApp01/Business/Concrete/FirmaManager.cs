@@ -22,6 +22,10 @@ namespace Business.Concrete
             {
                 Console.WriteLine(person.FirstName + "" + person.LastName + "" + "gecerli vatandaş bilgisine sahiptir.");
             }
+            else
+            {
+                Console.WriteLine(person.FirstName + "" + person.LastName + "" + "gecerli vatandaş bilgisine sahip değildir.");
+            }
 
         }
     }

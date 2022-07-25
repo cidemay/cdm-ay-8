@@ -20,8 +20,10 @@ namespace Business.Concrete
 
         public bool checkPerson(Person person)
         {
-            KPSPublicSoapClient client=new KPSPublicSoapClient(KPSPublicSoapClient.EndPointConfiguration.KPSPublicSoap);
-            return client.TCKimlikNoDogrulaAsync(new TCKimlikNoDogrulaRequest(new TCKimlikNoDogrulaRequestBody())).Result.Body.TCKimlikNoDogrulaResult;
+
+            KPSPublicSoapClient client = new KPSPublicSoapClient(KPSPublicSoapClient.EndpointConfiguration.KPSPublicSoap);
+
+            return client.TCKimlikNoDogrulaAsync(new TCKimlikNoDogrulaRequest(new TCKimlikNoDogrulaRequestBody(person.NationalIdentity, person.FirstName, person.LastName, person.DateOfBirthYear))).Result.Body.TCKimlikNoDogrulaResult;
         }
 
     }
