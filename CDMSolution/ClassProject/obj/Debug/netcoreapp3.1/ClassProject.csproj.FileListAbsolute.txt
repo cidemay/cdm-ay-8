@@ -1,0 +1,14 @@
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\bin\Debug\netcoreapp3.1\ClassProject.exe
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\bin\Debug\netcoreapp3.1\ClassProject.deps.json
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\bin\Debug\netcoreapp3.1\ClassProject.runtimeconfig.json
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\bin\Debug\netcoreapp3.1\ClassProject.runtimeconfig.dev.json
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\bin\Debug\netcoreapp3.1\ClassProject.dll
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\bin\Debug\netcoreapp3.1\ClassProject.pdb
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\obj\Debug\netcoreapp3.1\ClassProject.csproj.AssemblyReference.cache
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\obj\Debug\netcoreapp3.1\ClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\obj\Debug\netcoreapp3.1\ClassProject.AssemblyInfoInputs.cache
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\obj\Debug\netcoreapp3.1\ClassProject.AssemblyInfo.cs
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\obj\Debug\netcoreapp3.1\ClassProject.csproj.CoreCompileInputs.cache
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\obj\Debug\netcoreapp3.1\ClassProject.dll
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\obj\Debug\netcoreapp3.1\ClassProject.pdb
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\CDMSolution\ClassProject\obj\Debug\netcoreapp3.1\ClassProject.genruntimeconfig.cache
