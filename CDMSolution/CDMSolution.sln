@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application1", "Application
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application2", "Application2\Application2.csproj", "{2DEB8065-8389-443C-9218-6B847E0CFD98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassProject", "ClassProject\ClassProject.csproj", "{A5417C41-59AE-4AE3-AD4C-73ABE0111A88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassProject", "ClassProject\ClassProject.csproj", "{A5417C41-59AE-4AE3-AD4C-73ABE0111A88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

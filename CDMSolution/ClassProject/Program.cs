@@ -24,7 +24,7 @@ namespace ClassProject
 
             foreach (var personel in personeller)
             {
-                Console.WriteLine(personel.PersonelAdSoyad);
+                Console.WriteLine(personel.PersonelAdSoyad+""+personel.PersonelTC+""+personel.PersonelDogumTarihi);
             }
 
         }
