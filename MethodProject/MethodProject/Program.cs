@@ -31,7 +31,9 @@ namespace MethodProject
                 Console.WriteLine("----");
             }
 
-
+            CartManager cart = new CartManager();
+            cart.Insert(urun1);
+            cart.Insert(urun2);
 
         }
     }
