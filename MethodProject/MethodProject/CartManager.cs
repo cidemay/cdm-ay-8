@@ -10,7 +10,7 @@ namespace MethodProject
         {
             Console.WriteLine("seçtiğiniz ürün başarıyla sepete eklendi:" + product.ProductName);
         }
-        public void UrunEkle(string ProductName, string ProductDescription)
+        public void UrunEkle(string ProductName, string ProductDescription, double ProductPrice, int ProductStockCode)
         {
             Console.WriteLine("seçtiğiniz ürün başarıyla sepete eklendi:" + ProductName);
         }
