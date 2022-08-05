@@ -33,7 +33,15 @@ namespace NYP01
             productManager.TestMethod(number1);
             Console.WriteLine(number1);
 
-            Console.WriteLine(product.ProductName);
+            //Burada IslemYap sonucunu kullanmak istesem
+
+            productManager.IslemYap(9, 5);
+
+            //Bu hesaplamayı burada ver desem
+
+            int islemSonucu = productManager.IslemYapWithReturn(2, 6);
+            Console.WriteLine(islemSonucu * 10);
+
 
 
          }
