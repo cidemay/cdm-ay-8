@@ -1,0 +1,14 @@
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.exe
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.deps.json
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.runtimeconfig.json
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.runtimeconfig.dev.json
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.dll
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\bin\Debug\netcoreapp3.1\BankProject.pdb
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.csproj.AssemblyReference.cache
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.AssemblyInfoInputs.cache
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.AssemblyInfo.cs
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.csproj.CoreCompileInputs.cache
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.dll
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.pdb
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\BankProject\BankProject\obj\Debug\netcoreapp3.1\BankProject.genruntimeconfig.cache
