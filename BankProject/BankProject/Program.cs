@@ -38,6 +38,17 @@ namespace BankProject
 
             Console.WriteLine("VergiTutari(%7):" + vergiTutari + "TL");
 
+            Console.WriteLine("DosyaMasrafi(%0.8)" + dosyaMasrafi + "TL");
+
+            Console.WriteLine("SigortaMasrafi(%2)" + sigortaTutari + "TL");
+
+            Console.WriteLine("---sonuc---");
+
+            double totalAmount = Convert.ToDouble(creditAmount) - (vergiTutari + dosyaMasrafi + sigortaTutari);
+
+            Console.WriteLine("masraflar düşürüldükten sonra hesabınıza aktarılacak tutar:" + totalAmount + "TL");
+
+
 
 
 

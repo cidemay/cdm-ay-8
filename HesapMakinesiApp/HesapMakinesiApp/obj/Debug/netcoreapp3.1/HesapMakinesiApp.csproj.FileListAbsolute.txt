@@ -1,0 +1,14 @@
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\bin\Debug\netcoreapp3.1\HesapMakinesiApp.exe
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\bin\Debug\netcoreapp3.1\HesapMakinesiApp.deps.json
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\bin\Debug\netcoreapp3.1\HesapMakinesiApp.runtimeconfig.json
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\bin\Debug\netcoreapp3.1\HesapMakinesiApp.runtimeconfig.dev.json
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\bin\Debug\netcoreapp3.1\HesapMakinesiApp.dll
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\bin\Debug\netcoreapp3.1\HesapMakinesiApp.pdb
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\obj\Debug\netcoreapp3.1\HesapMakinesiApp.csproj.AssemblyReference.cache
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\obj\Debug\netcoreapp3.1\HesapMakinesiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\obj\Debug\netcoreapp3.1\HesapMakinesiApp.AssemblyInfoInputs.cache
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\obj\Debug\netcoreapp3.1\HesapMakinesiApp.AssemblyInfo.cs
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\obj\Debug\netcoreapp3.1\HesapMakinesiApp.csproj.CoreCompileInputs.cache
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\obj\Debug\netcoreapp3.1\HesapMakinesiApp.dll
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\obj\Debug\netcoreapp3.1\HesapMakinesiApp.pdb
+C:\Users\mhmt\Documents\GitHub\cdm-ay-8\HesapMakinesiApp\HesapMakinesiApp\obj\Debug\netcoreapp3.1\HesapMakinesiApp.genruntimeconfig.cache
